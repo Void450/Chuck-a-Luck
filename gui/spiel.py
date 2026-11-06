@@ -4,7 +4,7 @@ import random
 
 import pygame
 
-from spiellogik import (
+from gui.spiellogik import (
     START_GUTHABEN,
     wuerfeln,
     treffer_zaehlen,
